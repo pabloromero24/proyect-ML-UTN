@@ -109,13 +109,7 @@ form{
 @media (max-width: 768px) {
     .navbar input::placeholder {
         font-size: 3vw;
-    } 
-    .carousel{
-        min-height: 22vh;
-    }   
-    .carousel-inner img{
-        min-height: 20vh;
-    }
+    }     
 }
 
 @media (max-width: 480px) {
